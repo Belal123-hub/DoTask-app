@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="NotForgot">Not Forgot</string>
+    <string name="text1">for now you don\'t have anything to do. Have a nice rest</string>
+    <string name="text2">Tasks</string>
+    <string name="AddTasks">Add Tasks</string>
+    <string name="title">Title</string>
+    <string name="Description">Description</string>
+    <string name="TextField1">TextField1</string>
+    <string name="TextField2">TextField2</string>
+    <string name="TextField3">TextField3</string>
+    <string name="TextField4">TextField4</string>
+    <string name="Save">Save</string>
+    <string name="Deadline">Deadline</string>
+    <string name="Priority">Priority</string>
+    <string name="Task">Task</string>
+    <string name="EditTask">EditTask</string>
+    <string name="completed">Completed</string>
+    <string name="TimeIcon">TimeIcon</string>
+    <string name="before">Before %1$s</string>
+    <string name="ShowPriority">showPriority</string>
+    <string name="back">Back</string>
+    <string name="AddIcon">addIcon</string>
+    <string name="icon_for_first_page">Icon for first page</string>
+    <string name="AddIcon2">addIcon</string>
+    <string name="back1">Back</string>
+    <string name="arrow">arrow</string>
+    <string name="priority">Priority</string>
+    <string name="ArrangeDate_icon">Arrangedate icon</string>
+    <string name="deadline">Deadline</string>
+
+</resources>
