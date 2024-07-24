@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Project2</string>
     <string name="NotForgot">Not Forgot</string>
-    <string name="text1">for now you don\'t have anything to do. Have a nice rest</string>
+    <string name="text1">for now you don\'t have anything to do. \nHave a nice rest</string>
     <string name="text2">Tasks</string>
     <string name="AddTasks">Add Tasks</string>
     <string name="title">Title</string>
@@ -28,5 +28,7 @@
     <string name="priority">Priority</string>
     <string name="ArrangeDate_icon">Arrangedate icon</string>
     <string name="deadline">Deadline</string>
-
+    <string name="task_saved">Task saved</string>
+    <string name="title_error">" Title is required!!"</string>
+    <string name="description_error">There is no description!!</string>
 </resources>
