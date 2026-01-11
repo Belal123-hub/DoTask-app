@@ -32,16 +32,28 @@ ToDoTak is built with modern Android development tools and practices:
 
 ---
 
-## 📸 Screenshots  
-*(Add high-quality screenshots of your app here. You can use tools like Figma or Canva to create mockups.)*  
+## 📸 Screenshots
 
-| **Empty list** | **Task Screen** | **Add Task** |  
-|---------------|------------------|---------------|  
-| ![Empty list](https://github.com/user-attachments/assets/74b23a77-ae8c-4318-a92a-2f0098b9c9ee) | ![Task Screen](https://github.com/user-attachments/assets/47b7e094-d245-46f4-8a67-ad871d3b96f0) | ![Image](https://github.com/user-attachments/assets/feafdf0b-f1c3-4eaf-bb0d-5aa375a2a961) |
-| **Task Detail ** |
-|---------------|
-![Show Task](https://github.com/user-attachments/assets/5da29398-e2b6-44c2-a0d9-41cf75f8abc5)
-
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Empty List</b></td>
+      <td align="center"><b>Task List</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/74b23a77-ae8c-4318-a92a-2f0098b9c9ee" width="250" /></td>
+      <td><img src="https://github.com/user-attachments/assets/47b7e094-d245-46f4-8a67-ad871d3b96f0" width="250" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Add New Task</b></td>
+      <td align="center"><b>Task Details</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/feafdf0b-f1c3-4eaf-bb0d-5aa375a2a961" width="250" /></td>
+      <td><img src="https://github.com/user-attachments/assets/5da29398-e2b6-44c2-a0d9-41cf75f8abc5" width="250" /></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
